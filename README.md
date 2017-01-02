@@ -39,6 +39,7 @@ I'll be keeping this index updated as time goes on.
 
 ### C
   * Call for Papers ([2016-12-25](https://medium.com/@mbromileyDFIR/cfps-are-for-everyone-e542ecf847c2#))
+  * CFP, *see Call for Papers*
 
 ### D
  * DHCP ([2016-12-30](https://medium.com/@mbromileyDFIR/full-packet-friday-dhcp-abbc6b7b3c77#))
