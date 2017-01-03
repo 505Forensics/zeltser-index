@@ -12,6 +12,7 @@ I'll be keeping this index updated as time goes on.
 
 ### Malware Monday
   * 2016-12-26 - [VBScript and VBE Files](https://medium.com/@mbromileyDFIR/malware-monday-vbscript-and-vbe-files-292252c1a16#)
+  * 2017-01-02 - [Regshot](https://medium.com/@mbromileyDFIR/malware-monday-regshot-6826ae22ba29#)
 
 ### Torvalds Tuesday
   * 2016-12-27 - [Bash History](https://medium.com/@mbromileyDFIR/torvalds-tuesday-bash-history-d8a0849b036f#)
@@ -57,6 +58,7 @@ I'll be keeping this index updated as time goes on.
 ### R
  * Redline ([2016-12-24](https://medium.com/@mbromileyDFIR/scripting-saturday-redsketch-1eff44baa09c#))
  * Redsketch ([2016-12-24](https://medium.com/@mbromileyDFIR/scripting-saturday-redsketch-1eff44baa09c#), [2016-12-31](https://medium.com/@mbromileyDFIR/scripting-saturday-continuing-redsketch-development-cb45c58ef399#.9nu9tbk2u))
+ * Regshot ([2017-01-02](https://medium.com/@mbromileyDFIR/malware-monday-regshot-6826ae22ba29#))
 
 ### S
  * SQLite ([2016-12-31](https://medium.com/@mbromileyDFIR/scripting-saturday-continuing-redsketch-development-cb45c58ef399#.9nu9tbk2u))
