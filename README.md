@@ -16,6 +16,7 @@ I'll be keeping this index updated as time goes on.
 
 ### Torvalds Tuesday
   * 2016-12-27 - [Bash History](https://medium.com/@mbromileyDFIR/torvalds-tuesday-bash-history-d8a0849b036f#)
+  * 2017-01-03 - [It’s 10PM; Do You Know Where Your MongoDB Is?](https://medium.com/@mbromileyDFIR/its-10pm-do-you-know-where-your-mongodb-is-a83b8a55ab12#)
 
 ### Windows Wednesday
   * 2016-12-28 - [Prefetch Files](https://medium.com/@mbromileyDFIR/windows-wednesday-prefetch-files-683f6ab5b9db#)
@@ -50,6 +51,7 @@ I'll be keeping this index updated as time goes on.
 
 ### M
  * MANS file ([2016-12-24](https://medium.com/@mbromileyDFIR/scripting-saturday-redsketch-1eff44baa09c#), [2016-12-31](https://medium.com/@mbromileyDFIR/scripting-saturday-continuing-redsketch-development-cb45c58ef399#.9nu9tbk2u))
+ * MongoDB ([2017-01-03](https://medium.com/@mbromileyDFIR/its-10pm-do-you-know-where-your-mongodb-is-a83b8a55ab12#))
 
 ### P
   * PECmd ([2016-12-29](https://medium.com/@mbromileyDFIR/tooling-thursday-pecmd-83d1d6d6346b#))
