@@ -54,7 +54,6 @@ I'll be keeping this index updated as time goes on.
 ### B
   * Bash
     * History ([2016-12-27](https://medium.com/@mbromileyDFIR/torvalds-tuesday-bash-history-d8a0849b036f#))
-
   * Books
     * Practical Forensic Imaging ([2016-12-11](https://medium.com/@mbromileyDFIR/sunday-grabbag-book-review-of-practical-forensic-imaging-fa20cba8cc1b))
 
